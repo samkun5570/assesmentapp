@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">assesmentapp</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="greating">Welcome</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="form">Form</string>
+    <string name="hobbies">Hobbies</string>
+</resources>

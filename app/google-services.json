@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406993156908",
+    "firebase_url": "https://pgman-a0641.firebaseio.com",
+    "project_id": "pgman-a0641",
+    "storage_bucket": "pgman-a0641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406993156908:android:c9e9707d9f8ef9917aca89",
+        "android_client_info": {
+          "package_name": "com.example.assesmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406993156908-2v3brt4i5haaomr6842bgb36refv3862.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJfBrvuCS6cMibh-h49F9w7pdwqRWUUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406993156908-2v3brt4i5haaomr6842bgb36refv3862.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
